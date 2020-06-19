@@ -1,5 +1,5 @@
 {
-  "name": "{{appName}}",
+  "name": "application",
   "version": "0.0.1",
   "description": "nignitor boilerplate",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^5.1.0"
+    "nignitor": "^0.0.8"
   }
 }
